@@ -13,5 +13,6 @@ apt-get --print-uris --yes update | grep ^\' > wget_update.lst
 # replace '  (tanda petik diikuti spasi) dengan karakter kosong
 # replace 0 : (nol diikuti spasi diikuti titik-dua) dengan karakter kosong
 # replace 0 (nol) dengan karakter kosong
+# hapus line yang berisi "Translation" dan *.gpg file
 # untuk raspbian, replace bz2 dengan gz (sesuai format yang tersedia di repository)
 kate wget_update.lst
