@@ -3,7 +3,7 @@ apt_no_internet
 
 Bismillahirrahmanirrahim.
 
-Dikutip dari developer aslinya (Achmadi Mekatronik):
+Dikutip dari developer aslinya (Achmadi Mechathronic):
 
 Bingung pengen instal-instal di Linux tapi gak bisa direct internet connection.
 Disini ane menyediakan metode alternatif memanfaatkan cygwin, bash, wget sehingga brother2 sekalian bisa instal-instal di Linux memanfaatkan warnet.
